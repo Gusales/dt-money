@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2023-09-09T22:25:42.264Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2023-09-09T22:20:42.264Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel do apartamento",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 12000,
+      "createdAt": "2023-09-09T22:10:42.264Z"
+    },
+    {
+      "id": 4,
+      "description": "Computador",
+      "type": "income",
+      "category": "Venda",
+      "price": 5400,
+      "createdAt": "2023-09-09T22:05:42.264Z"
+    },
+    {
+      "category": "Itens",
+      "description": "Fones de ouvido",
+      "price": 150,
+      "type": "outcome",
+      "createdAt": "2023-09-10T15:56:15.628Z",
+      "id": 5
+    },
+    {
+      "category": "Vendas",
+      "description": "Desenvolvimento de Site",
+      "price": 14000,
+      "type": "income",
+      "createdAt": "2023-09-10T20:30:57.006Z",
+      "id": 6
+    }
+  ]
+}
